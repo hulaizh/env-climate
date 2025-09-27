@@ -916,6 +916,7 @@ a:hover {
 }
 
 .host-name {
+  font-size: var(--font-size-base);
   margin-bottom: var(--space-sm);
 }
 
